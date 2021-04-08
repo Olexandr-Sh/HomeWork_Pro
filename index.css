@@ -26,11 +26,11 @@ code {
   padding: 2px;
 }
 
-body {
+.main {
   background: rgb(135, 238, 241);
 }
-div {
-  height: 50px;
+.cover {
+  height: 60px;
 }
 .string {
   width: 100%;
